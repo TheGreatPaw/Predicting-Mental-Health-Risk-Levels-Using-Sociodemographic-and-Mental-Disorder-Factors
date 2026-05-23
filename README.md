@@ -2,6 +2,8 @@
 
 This project presents a **Classification-Based Assessment Model** designed to predict mental health risk levels (Low, Medium, or High) by analyzing demographic data and psychological scores. Utilizing the **SEMMA framework**, the study identifies that internal emotional states like depression and anxiety are far more predictive of risk than basic sociodemographic factors.
 
+--- 
+
 ## 🔍 Overview
 Mental disorders affect over 1 billion people globally. This study develops a predictive tool to assist in **early intervention** by classifying individuals into risk categories based on age, gender, stress, depression, and anxiety scores.
 
